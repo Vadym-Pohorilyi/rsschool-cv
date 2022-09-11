@@ -1,1 +1,1 @@
-https://Vadym-Pohorilyi.github.io/rsschool-cv/cv
+https://Vadym-Pohorilyi.github.io/rsschool-cv/
