@@ -19,3 +19,13 @@ I like learning new things. I treat my work with maximum efficiency, and I alway
 * JavaScript
 * Git/GitHub
 * Figma
+
+## Education
+
+Kharkiv National University of Construction and Architecture
+
+## Languages
+
+* __Ukrainian__
+* __Russian__ 
+* __English__
